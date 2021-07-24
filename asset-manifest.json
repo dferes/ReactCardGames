@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactCardGames/static/css/main.0669ef45.chunk.css",
+    "main.js": "/ReactCardGames/static/js/main.afd8add9.chunk.js",
+    "main.js.map": "/ReactCardGames/static/js/main.afd8add9.chunk.js.map",
+    "runtime-main.js": "/ReactCardGames/static/js/runtime-main.80e41872.js",
+    "runtime-main.js.map": "/ReactCardGames/static/js/runtime-main.80e41872.js.map",
+    "static/js/2.799db6c3.chunk.js": "/ReactCardGames/static/js/2.799db6c3.chunk.js",
+    "static/js/2.799db6c3.chunk.js.map": "/ReactCardGames/static/js/2.799db6c3.chunk.js.map",
+    "index.html": "/ReactCardGames/index.html",
+    "precache-manifest.edb019528651bd3ee3f94f9b9d643e67.js": "/ReactCardGames/precache-manifest.edb019528651bd3ee3f94f9b9d643e67.js",
+    "service-worker.js": "/ReactCardGames/service-worker.js",
+    "static/css/main.0669ef45.chunk.css.map": "/ReactCardGames/static/css/main.0669ef45.chunk.css.map",
+    "static/js/2.799db6c3.chunk.js.LICENSE.txt": "/ReactCardGames/static/js/2.799db6c3.chunk.js.LICENSE.txt",
+    "static/media/back.png": "/ReactCardGames/static/media/back.f3a868fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80e41872.js",
+    "static/js/2.799db6c3.chunk.js",
+    "static/css/main.0669ef45.chunk.css",
+    "static/js/main.afd8add9.chunk.js"
+  ]
+}
