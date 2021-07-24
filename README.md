@@ -1,16 +1,20 @@
-## Available Scripts
+### Card Games
 
-In the project directory, you can run:
+##### Just a toy app for playing some card games games.
 
-### `npm start`
+##### Check out the app here: https://dferes.github.io/ReactCardGames/
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To get a local copy of the app up and running:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### Clone the repository:
 
-### `npm test`
+    https://github.com/dferes/ReactCardGames.git
+    
+#### Install:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    npm install
+    
+#### Visit the app (at http://localhost:3000):
+
+    npm start    
+
