@@ -1,6 +1,6 @@
 ### Card Games
 
-##### Just a toy app for playing some card games games.
+##### Just a toy app for playing some card games.
 
 ##### Check out the app here: https://dferes.github.io/ReactCardGames/
 
